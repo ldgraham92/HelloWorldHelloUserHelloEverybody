@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1dZF0FoTlXTkJqMPVptSsDyjkIXr46peoePTQQknAZwVxQihx/Uk/JbXtVAel3FMqKVzRV6PyTupZRDCAcKYBQ==",
+  "dgSpecHash": "CZ67+DXZW6/yttHiJTeWb1jRH4LapLnbVPo4o081B1mDqZUHmwJZMwtrSU+bOs541xjz25Ils4P0LsBbOtc44g==",
   "success": true,
   "projectFilePath": "C:\\Users\\LGraham\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.console\\3.11.1\\nunit.console.3.11.1.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\LGraham\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

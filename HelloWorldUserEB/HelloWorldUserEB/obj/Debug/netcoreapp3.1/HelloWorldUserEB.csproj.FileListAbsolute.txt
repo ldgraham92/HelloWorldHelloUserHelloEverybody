@@ -7,7 +7,7 @@ C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\He
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csprojAssemblyReference.cache
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfoInputs.cache
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfo.cs
-C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csproj.CoreCompileInputs.cache
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.dll
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
 C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.genruntimeconfig.cache
+C:\Users\LGraham\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csproj.CoreCompileInputs.cache
